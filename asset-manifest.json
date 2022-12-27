@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/project-roxxie/static/css/main.0b9385ff.css",
-    "main.js": "/project-roxxie/static/js/main.7319db80.js",
+    "main.js": "/project-roxxie/static/js/main.b10916fb.js",
     "static/js/787.71e672d5.chunk.js": "/project-roxxie/static/js/787.71e672d5.chunk.js",
     "static/media/mgk.jpg": "/project-roxxie/static/media/mgk.489c207df457293ba74f.jpg",
     "index.html": "/project-roxxie/index.html",
     "main.0b9385ff.css.map": "/project-roxxie/static/css/main.0b9385ff.css.map",
-    "main.7319db80.js.map": "/project-roxxie/static/js/main.7319db80.js.map",
+    "main.b10916fb.js.map": "/project-roxxie/static/js/main.b10916fb.js.map",
     "787.71e672d5.chunk.js.map": "/project-roxxie/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b9385ff.css",
-    "static/js/main.7319db80.js"
+    "static/js/main.b10916fb.js"
   ]
 }
