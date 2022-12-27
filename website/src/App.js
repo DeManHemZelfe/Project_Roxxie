@@ -1,16 +1,7 @@
 import './App.css';
+import photos from "./photos";
+import PhotoAlbum from "react-photo-album";
 
-function App() {
-  return (
-    <div className="App">
-      <header>
-        <p>This is the header</p>
-      </header>
-      <div>
-        <p>This is the main</p>
-      </div>
-    </div>
-  );
-}
+const App = () => <PhotoAlbum photos={photos} layout="masonry" />;
 
 export default App;
