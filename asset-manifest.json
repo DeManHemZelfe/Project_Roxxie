@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/project-roxxie/static/css/main.0b9385ff.css",
-    "main.js": "/project-roxxie/static/js/main.b10916fb.js",
-    "static/js/787.71e672d5.chunk.js": "/project-roxxie/static/js/787.71e672d5.chunk.js",
-    "static/media/mgk.jpg": "/project-roxxie/static/media/mgk.489c207df457293ba74f.jpg",
-    "index.html": "/project-roxxie/index.html",
-    "main.0b9385ff.css.map": "/project-roxxie/static/css/main.0b9385ff.css.map",
-    "main.b10916fb.js.map": "/project-roxxie/static/js/main.b10916fb.js.map",
-    "787.71e672d5.chunk.js.map": "/project-roxxie/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/Project_Roxxie/static/css/main.0b9385ff.css",
+    "main.js": "/Project_Roxxie/static/js/main.3cae93e6.js",
+    "static/js/787.71e672d5.chunk.js": "/Project_Roxxie/static/js/787.71e672d5.chunk.js",
+    "static/media/mgk.jpg": "/Project_Roxxie/static/media/mgk.489c207df457293ba74f.jpg",
+    "index.html": "/Project_Roxxie/index.html",
+    "main.0b9385ff.css.map": "/Project_Roxxie/static/css/main.0b9385ff.css.map",
+    "main.3cae93e6.js.map": "/Project_Roxxie/static/js/main.3cae93e6.js.map",
+    "787.71e672d5.chunk.js.map": "/Project_Roxxie/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b9385ff.css",
-    "static/js/main.b10916fb.js"
+    "static/js/main.3cae93e6.js"
   ]
 }
