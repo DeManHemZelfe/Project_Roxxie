@@ -6,7 +6,9 @@ import PhotoAlbum from "react-photo-album";
 function App() {
     return (
         <div>
-         <div>Test</div>
+         <div>
+            <div>Dit is de header</div>
+         </div>
          <div>
           <PhotoAlbum photos={photos} layout="masonry"></PhotoAlbum>
          </div>
