@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Project_Roxxie/static/css/main.0b9385ff.css",
-    "main.js": "/Project_Roxxie/static/js/main.6ffd258a.js",
+    "main.css": "/Project_Roxxie/static/css/main.a93c31ed.css",
+    "main.js": "/Project_Roxxie/static/js/main.1ff315d2.js",
     "static/js/787.71e672d5.chunk.js": "/Project_Roxxie/static/js/787.71e672d5.chunk.js",
     "static/media/Roxanne_6.jpg": "/Project_Roxxie/static/media/Roxanne_6.70b64f9b19889f26d60d.jpg",
     "static/media/Roxanne_4.jpg": "/Project_Roxxie/static/media/Roxanne_4.eff5c2fb186ad4384d8f.jpg",
@@ -38,12 +38,12 @@
     "static/media/Roxanne_11.jpg": "/Project_Roxxie/static/media/Roxanne_11.77ba77c125db12e00ab6.jpg",
     "static/media/Roxanne_12.jpg": "/Project_Roxxie/static/media/Roxanne_12.c555edb54dfd12408d1c.jpg",
     "index.html": "/Project_Roxxie/index.html",
-    "main.0b9385ff.css.map": "/Project_Roxxie/static/css/main.0b9385ff.css.map",
-    "main.6ffd258a.js.map": "/Project_Roxxie/static/js/main.6ffd258a.js.map",
+    "main.a93c31ed.css.map": "/Project_Roxxie/static/css/main.a93c31ed.css.map",
+    "main.1ff315d2.js.map": "/Project_Roxxie/static/js/main.1ff315d2.js.map",
     "787.71e672d5.chunk.js.map": "/Project_Roxxie/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b9385ff.css",
-    "static/js/main.6ffd258a.js"
+    "static/css/main.a93c31ed.css",
+    "static/js/main.1ff315d2.js"
   ]
 }
